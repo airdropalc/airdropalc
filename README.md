@@ -1,6 +1,3 @@
-Of course\! Here is the updated code with all the images centered. I've wrapped the images and groups of badges in `<p align="center">` tags to achieve the centering.
-
-```markdown
 <p align="center">
   <img src="https://media.giphy.com/media/jQpJvEKfN6DFcmIrXj/giphy.gif" alt="Wave GIF" />
 </p>
@@ -111,4 +108,3 @@ Our team leverages a powerful and flexible tech stack to stay ahead in the fast-
 <p align="center">
   ⭐️ From the <strong>Airdrop ALC Team</strong>
 </p>
-```
