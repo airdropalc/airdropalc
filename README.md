@@ -1,6 +1,6 @@
 ![Wave GIF](https://media.giphy.com/media/jQpJvEKfN6DFcmIrXj/giphy.gif)
 
-# 🚀 Welcome to Airdrop ALC!
+# 🚀 Welcome to [Airdrop ALC](https://github.com/airdropalc)!
 
 ### Your Gateway to the Airdrop Ecosystem.
 
@@ -61,10 +61,10 @@ Our team leverages a powerful and flexible tech stack to stay ahead in the fast-
 
 Join our community, follow our updates, or reach out for a potential collaboration.
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR-TWITTER-HANDLE)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR-INVITE-CODE)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR-TELEGRAM-CHANNEL)
-[![Portfolio](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/airdropalc)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/airdropalc)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](t.me/airdropalc)
+[![Portfolio](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/airdropalc)
 
 ---
 
